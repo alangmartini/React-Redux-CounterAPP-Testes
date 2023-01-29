@@ -1,5 +1,3 @@
-import { combineReducers } from "redux";
-
 const counterReducer = (state = { valorAtual: 0 }, action) => {
   switch (action.type) {
     case "INCREMENT":
