@@ -1,3 +1,1 @@
-# exec-testes-react-redux
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-nh2qcd)
+Aplicativo Counter e exercício de teste para React Redux.
